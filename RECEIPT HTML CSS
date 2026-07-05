@@ -1,0 +1,66 @@
+CSS
+
+#workskin .receipt {
+  background: #fdfdfd;
+  border: 1px solid #ccc;
+  border-style: dashed none;
+  font-family: 'Courier New', Courier, monospace;
+  max-width: 300px;
+  margin: 20px auto;
+  padding: 15px;
+  color: #333;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+
+#workskin .receipt-center {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#workskin .item-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+HTML
+
+<div class="receipt"><div class="receipt-center">
+
+<p>Apple Store <br />
+JAN 22, 2013 07:07 AM</p></div><hr><div class="item-row">
+
+<p><span>Iphone 5-16GB,Silver</span> <span>....<strong>$CAD 529.99</strong></span></p></div><div class="item-row">
+
+<p><span>AppleCare+</span> <span>...........<strong>$CAD 112.99</strong></span></p></div><hr><div class="item-row">
+
+<p><strong>SUBTOTAL</strong> <strong>........$CAD 642.89</strong></p></div><div class="item-row">
+
+<p><strong>TAX</strong> <strong>........$CAD 98.99</strong></p></div><div class="item-row">
+
+<p><strong>TOTAL</strong> <strong>........$CAD 741.97</strong></p></div><div class="receipt-center">
+
+<p>Items sold: 2<br />
+Returns accepted within 14 days with<br />
+receipt.<br />
+Device identifiers may be recorded<br />
+for returns.<br />
+</p></div><div class="receipt-center">
+
+<p>Card number       **** **** **** 1027<br />
+Card type               Mastercard<br />
+Card entry                    Chip<br />
+Auth code                   K7D391<br />
+Reference #        AP5AV1124251416<br />
+Status                    APPROVED</p>
+
+<p>𝄃𝄂𝄀𝄁𝄃𝄂𝄂𝄃<br />
+</p></div></div>
+
+(I added the barcode image) 
+
+
+
+
+
+
