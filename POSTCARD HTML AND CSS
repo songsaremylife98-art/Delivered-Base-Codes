@@ -1,3 +1,5 @@
+CSS
+
 #workskin .postcard {
   position: relative;
   margin: 0 auto;
@@ -85,3 +87,25 @@
   width: 20%;
   max-width: 90px;
 }
+HTML 
+
+<div class="postcard"><img class="postcard_front" src="https://squidgeimages.s3.us-west-002.backblazeb2.com/2026/04/01/IMG_7031.png
+"><div class="postcard_back"><img class="postcard_stamp" src="https://squidgeimages.s3.us-west-002.backblazeb2.com/2026/04/01/IMG_7067.png"><div class="postcard_address">
+
+<p align="left"><b>FirstName LastName</b><br />
+123 Fake Street<br />
+MadeUp City<br />
+Nowhere<br />
+</p></div>
+
+<div class="postcard_message">
+
+<p>Hello,</p>
+
+<p>Here's a postcard for you!<br />
+Hope you like it.
+</p>
+
+<p align="right">XOXO Sender</p>
+</div></div></div>
+
